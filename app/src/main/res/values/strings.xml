@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MemoryApp</string>
+    <string name="score">0</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome!"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="logout">Log out</string>
+    <string name="appwidget_text">Memory highscores</string>
+    <string name="add_widget">Memory Highscores</string>
+    <string name="highscoreString">Highscore:</string>
+    <string name="highscore">0</string>
+    <string name="highscoreStringApp">Highscore:</string>
+    <string name="scoreStringApp">Score:</string>
+    <string name="highscoreApp">0</string>
+    <string name="deletehighscore">Del Highscore</string>
+</resources>
